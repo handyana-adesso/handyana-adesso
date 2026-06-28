@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Handyana 👋
 
-<!--
-**handyana-adesso/handyana-adesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 14+ years of experience building enterprise software and cloud-native applications.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Development with ASP.NET Core
+- Clean Architecture & Domain-Driven Design
+- PostgreSQL & SQL Server
+- Azure Cloud Solutions
+- Docker & Kubernetes
+- CI/CD Automation
+- Software Architecture
+
+## Current Focus
+
+- ASP.NET Core
+- Cloud-Native Applications
+- Kubernetes
+- Azure
+- AI-Assisted Development
